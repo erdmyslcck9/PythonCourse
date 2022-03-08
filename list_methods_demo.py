@@ -1,7 +1,7 @@
 names = ['Ali','Yağmur','Hakan','Deniz']
 years = [1998,2000,1998,1987]
 
-# 1- "Cenk" ismini listenin sonuna ekleyiniz asd
+# 1- "Cenk" ismini listenin sonuna ekleyiniz
 
 # names.append("Cenk")
 # print(names)
